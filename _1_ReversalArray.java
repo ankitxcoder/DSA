@@ -1,4 +1,4 @@
-public class ReversalArray {
+public class _1_ReversalArray {
     public static void main(String[] args) {
         int array[] = { 1, 2, 3, 4, 5, 6 };
         int n = array.length;
