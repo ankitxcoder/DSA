@@ -38,3 +38,7 @@ Omega -best
 ### Problem is == OverFlow ( array Size is very big )
 
 ---
+
+# Finding address ... index elments { very big aray case }
+- array of n index elements = index adress of lower bound elements + (n index - lower index) * byte need to store one element
+

@@ -1,3 +1,4 @@
+package _1_D_Array;
 public class _1_ReversalArray {
     public static void main(String[] args) {
         int array[] = { 1, 2, 3, 4, 5, 6 };
@@ -10,8 +11,8 @@ public class _1_ReversalArray {
 
         System.out.println("Reversal of array");
         for (int i = 0; i < n; i++) {
-            System.out.print(array[i]+" ");
+            System.out.print(array[i] + " ");
         }
-       
+
     }
 }
